@@ -27,7 +27,9 @@ This README provides an overview of the profile section within the mobile applic
   - Quick access to **All Transactions** history
 
 ## Purpose
-This profile section is designed to give users a transparent view of their financial standing and reward balance while enabling easy access to support and transaction details.
+This profile section is designed to give users a transparent view of their financial standing and reward balance while enabling easy acce![Screenshot_20250520_221445](https://github.com/user-attachments/assets/4ccf551b-0223-4561-aaf2-0514ce4e860d)
+ss to support and transaction details.
 
 ## Installation & Usage
 1. Clone the repository:
+
